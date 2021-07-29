@@ -1,0 +1,36 @@
+{
+  "shifts": [
+    {
+      "iwo": "12",
+      "client": "213",
+      "die": "123",
+      "inTime": "12",
+      "outTime": "213",
+      "size": "124",
+      "nos": "124",
+      "weight": "42134",
+      "speed": "3242",
+      "outputWeight": "2",
+      "scrap": "100",
+      "recovery": "0",
+      "alloy": "",
+      "id": 1
+    },
+    {
+      "iwo": "352",
+      "client": "dsg",
+      "die": "3425",
+      "inTime": "235",
+      "outTime": "53",
+      "size": "235",
+      "nos": "235",
+      "weight": "2355",
+      "speed": "3",
+      "outputWeight": "664",
+      "scrap": "72",
+      "recovery": "28",
+      "alloy": "",
+      "id": 2
+    }
+  ]
+}
